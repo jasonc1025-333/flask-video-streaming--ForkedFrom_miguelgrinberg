@@ -1,7 +1,9 @@
 flask-video-streaming
 =====================
 * jwc 23-1124-0750
+  
 * jesus333@raspberrypi:~/23-1124-0500-jwc/23-1124-0710-flask-video-streaming--ForkedFrom_miguelgrinberg/flask-video-streaming--ForkedFrom_miguelgrinberg $ CAMERA=pi python3 app.py
+
 * Serving Flask app 'app'
                  * Debug mode: on
                 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
